@@ -22,7 +22,10 @@ chmod +x kencryptor
 ./kencryptor
 ```
 
-### FOLLOW!
-Follow The Author:
+### Any Question?
 ### Instagram:
 https://www.instagram.com/frdy_an
+### Email:
+```ferdi.kennedy@protonmail.com```
+
+
