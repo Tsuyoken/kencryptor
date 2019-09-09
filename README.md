@@ -22,7 +22,7 @@ chmod +x kencryptor
 ./kencryptor
 ```
 
-### Donate!
+### FOLLOW!
 Follow The Author:
 ### Instagram:
 https://www.instagram.com/frdy_an
