@@ -16,7 +16,7 @@ Usage of KenCryptor for attacking targets without prior mutual consent is illega
 ### Usage:
 ```
 git clone https://github.com/kennedy69/kencryptor
-cd hidden-cry
+cd kencryptor
 sudo apt-get update & sudo apt-get install mingw-w64 -y
 chmod +x kencryptor
 ./kencryptor
