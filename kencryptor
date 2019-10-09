@@ -3,6 +3,7 @@
 # Coded by @kennedy69 (Don't change! Read the License!)
 # Github: https://github.com/kennedy69/kencryptor
 # Disclaimer:
+# Follow my instagram https://instagram.com/frdy_an
 
 host="http://serveo.net" #"159.89.214.31" #Serveo.net (Port Forwarding Tunneling)
 
@@ -11,13 +12,13 @@ trap 'printf "\n";stop' 2
 warning() {
 printf "\n"
 printf " \n  \e[1;41mUsage of kencryptor is COMPLETE RESPONSABILITY of the END-USER. \e[0m\n"
-printf "  \e[1;41mSaya tidak bertanggung jawab atas PENYALAHGUNAAN atau Kerusakan  \e[0m\n"
-printf "  \e[1;41myang disebabkan oleh program ini.                        \e[0m\n"
+printf "  \e[1;41mDevelopers assume no liability and are NOT responsible for any  \e[0m\n"
+printf "  \e[1;41mmisuse or damage caused by this program.                        \e[0m\n"
 printf "\n"
-printf "  \e[1;77mKencryptor hanya digunakan untuk pembelajaran.\e[0m\n"
-read -p $'  \e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]\e[1;93mCopy dan paste kata-kata tersebut:\e[0m ' end_user
+printf "  \e[1;77mI am using kencryptor for educational purposes only.\e[0m\n"
+read -p $'  \e[1;93m[\e[0m\e[1;77m+\e[0m\e[1;93m]\e[1;93mCopy and paste the above phrase:\e[0m ' end_user
 
-if [[ "$end_user" != "Kencryptor hanya digunakan untuk pembelajaran" ]]; then
+if [[ "$end_user" != "I am using kencryptor for educational purposes only" ]]; then
 exit 1
 fi 
 
