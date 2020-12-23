@@ -1,6 +1,6 @@
 # KenCryptor v1.0
 ## Author: github.com/kennedy69
-## IG: instagram.com/frdy_an
+## IG: instagram.com/ferdikennedy
 ### Don't copy this code without give me the credits, nerd! 
 
 Windows Crypter/Decrypter Generator with AES 256 bits key
@@ -24,8 +24,8 @@ chmod +x kencryptor
 
 ### Any Question?
 ### Instagram:
-https://www.instagram.com/frdy_an
+https://www.instagram.com/ferdikennedy
 ### Email:
-```ferdi.kennedy@protonmail.com```
+```ferdikennedy@protonmail.com```
 
 
