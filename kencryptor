@@ -1,9 +1,7 @@
 #!/bin/bash
-# Hidden-Cry v1.0
 # Coded by @kennedy69 (Don't change! Read the License!)
-# Github: https://github.com/kennedy69/kencryptor
 # Disclaimer:
-# Follow my instagram https://instagram.com/frdy_an
+# Follow my instagram https://instagram.com/ferdikennedy
 
 host="http://serveo.net" #"159.89.214.31" #Serveo.net (Port Forwarding Tunneling)
 
